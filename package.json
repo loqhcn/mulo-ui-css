@@ -1,0 +1,28 @@
+{
+  "name": "mulo-ui-css",
+  "version": "1.0.0",
+  "description": "mulo-ui core css lib",
+  "main": "src/js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "dist",
+    "src",
+    "docs",
+    "readme.md"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.8.3",
+    "@babel/preset-env": "^7.8.3",
+    "@babel/preset-react": "^7.8.3",
+    "babel-loader": "^8.0.0-beta.0",
+    "gulp": "^4.0.2",
+    "gulp-html-import": "^0.0.2",
+    "gulp-sass": "^4.0.2",
+    "webpack-stream": "^5.2.1"
+  }
+}
